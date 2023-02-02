@@ -1,0 +1,2 @@
+El proyecto fue creado en Visual Studio 2019.(.NET FRAMEWORK, APLICACION DE ESCRITORIO)
+Con SQL SERVER.
