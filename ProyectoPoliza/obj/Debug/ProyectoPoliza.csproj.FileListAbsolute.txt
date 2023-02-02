@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.Properties.Resources.resources
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ProyectoPoliza\bin\Debug\ProyectoPoliza.exe.config
+C:\Users\Usuario\source\repos\ProyectoPoliza\bin\Debug\ProyectoPoliza.exe
+C:\Users\Usuario\source\repos\ProyectoPoliza\bin\Debug\ProyectoPoliza.pdb
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.exe
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.pdb
+C:\Users\Usuario\source\repos\ProyectoPoliza\obj\Debug\ProyectoPoliza.Interfaces.PolizaForm.resources
